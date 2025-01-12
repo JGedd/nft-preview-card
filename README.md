@@ -53,7 +53,6 @@ I learned how to use the css ::after selector in order the image hover effect
 ## Author
 
 - Frontend Mentor - [@JGedd](https://www.frontendmentor.io/profile/JGedd)
-- Twitter - [@John_geddis](https://twitter.com/john_geddis)
 
 ## Acknowledgments
 
